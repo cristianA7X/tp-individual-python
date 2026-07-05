@@ -1,4 +1,4 @@
-# tp-individual-python
+# Trabajo Práctico Individual
 
 Este repositorio contiene la resolución de una serie de ejercicios prácticos de Python desarrollados durante el curso.
 
