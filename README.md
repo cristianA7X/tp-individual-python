@@ -12,9 +12,4 @@ El repositorio está organizado en archivos individuales, cada uno correspondien
 - **`ejercicio-04.py`**: Ejercicio sobre funciones. Implementa el cálculo del área de un rectángulo.
 - **`ejercicio-05.py`**: Ejercicio sobre diccionarios y recorrido. Muestra el contenido de un diccionario mediante un bucle.
 
-## Cómo ejecutar
 
-Para ejecutar cualquiera de los programas, asegúrate de tener instalado Python en tu computadora y utiliza la terminal:
-
-```bash
-python nombre_del_archivo.py
